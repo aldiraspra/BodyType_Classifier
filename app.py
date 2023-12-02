@@ -152,4 +152,4 @@ else:
         display_mesomorph_info()
         
 st.sidebar.markdown("---")
-st.sidebar.write("Made with 💪 by Al Diras Pradiptha")
+#st.sidebar.write("Made with 💪 by Al Diras Pradiptha")

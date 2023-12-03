@@ -4,7 +4,7 @@ import random
 from PIL import Image, ImageOps
 import numpy as np
 
-model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('model/model_1.h5')
 
 # hide deprication warnings which directly don't affect the working of the application
 import warnings
